@@ -1,0 +1,18 @@
+﻿filename,status,problems
+ABC-CIV-DRG-0001-R00.pdf,OK,
+ABC-CIV-DRG-0001-R01.pdf,OK,
+ABC-ARC-RPT-0002-R00.docx,OK,
+ABC-MEC-SPC-0003-R02.pdf,OK,
+abc-CIV-DRG-0004-R00.pdf,FAIL,project code must be 3 capital letters
+ABC-CIV-DRG-0005-R0.pdf,FAIL,revision must look like R00
+ABC-XYZ-DRG-0006-R00.pdf,FAIL,unknown discipline: XYZ
+ABC-ELE-DRG-0007-R00.PDF,FAIL,extension not lower case
+ABC-HSE-MOM-0008-R00 final.docx,FAIL,contains space; revision must look like R00
+ABC-QAC-TRN-009-R00.pdf,FAIL,serial must be 4 digits
+ABC-CIV-DRG-0010.pdf,FAIL,"expected 5 fields, found 4"
+ABC-STR-DRG-0011-R00.pdf,FAIL,duplicate name
+ABC-STR-DRG-0011-R00.pdf,FAIL,duplicate name
+ABC-STR-PRC-0012-R00.pdf,OK,
+ABC-CIV-PRC-0012-R00.pdf,OK,
+ABC-CIV-DRG-0013-R00.exe,FAIL,extension not allowed: exe
+ABC-CIV-DRG-0014-R00,FAIL,no extension
