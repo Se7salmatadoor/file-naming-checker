@@ -1,6 +1,6 @@
 # File Naming Checker (Python)
 
-![Example output of the file naming checker (dummy data)](images/checker-output.png)
+![Example output of the file naming checker (dummy data)](images/2-checker-output.png)
 
 A small script that checks a list of document file names against a naming convention and reports which ones break it, and why. Standard library only, no installs. Dummy example data.
 
